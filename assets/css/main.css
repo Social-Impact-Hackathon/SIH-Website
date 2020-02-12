@@ -82,6 +82,7 @@ input, select, textarea {
 	display: table;
 	clear: both;
 	padding-left: 5%;
+	padding-right: 5%;
   }
 
 /* Basic */
